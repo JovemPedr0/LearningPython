@@ -6,7 +6,6 @@ I'm using some free lessons on youtube, like ![BroCode](https://www.youtube.com/
 
 ![Learning Python][img-src]
 
-
-[img-src]: https://i.pinimg.com/564x/26/d8/d4/26d8d4d530c2af15b3dd77103f693976.jpg
-[url-src]: https://www.linkedin.com/learning/learning-python-14393370
+[img-src]: https://pbs.twimg.com/media/D87RHZAXYAAdUoL.jpg
+[url-src]: https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python-14393370%3Ftrk%3Dshare_ent_url%26shareId%3DgXzGWY%252FHRxK3UzY0caMkxA%253D%253D
 
