@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <firstname>Pedro</firstname>
+  <lastname>Lucas</lastname>
+  <home>João Pessoa</home>
+  <skill name="C"/>
+  <skill name="C++"/>
+  <skill name="Python"/>
+</person>
